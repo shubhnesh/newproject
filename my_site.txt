@@ -1,3 +1,4 @@
+<body bgcolor='blue'>
 welcome in my site...!
 Hay 
 helllo...!!
